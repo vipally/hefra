@@ -1,2 +1,2 @@
-//package action is a configurable
+//package action is a configurable interface
 package action
